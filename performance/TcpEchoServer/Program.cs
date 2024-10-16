@@ -39,7 +39,7 @@ namespace TcpEchoServer
         static void Main(string[] args)
         {
             bool help = false;
-            int port = 1111;
+            int port = 1234;
 
             var options = new OptionSet()
             {

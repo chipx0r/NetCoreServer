@@ -67,7 +67,7 @@ namespace TcpEchoClient
         {
             bool help = false;
             string address = "127.0.0.1";
-            int port = 1111;
+            int port = 1234;
             int clients = 100;
             int messages = 1000;
             int size = 32;
